@@ -6,7 +6,9 @@ module practica2
 	input start,
 		
 	output tiempo,
-	output product
+	output product,
+	output Clk
+	puto
 );
 
 
