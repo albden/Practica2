@@ -1,0 +1,13 @@
+module Multiplicacion
+(
+	input clk,
+	input reset, 
+	input Enable,
+	
+	output tiempo
+);
+
+
+
+
+endmodule 
