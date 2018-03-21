@@ -4,8 +4,9 @@ module practica2
 	input reset, 
 	input Enable,
 	input start,
-	
-	output tiempo
+		
+	output tiempo,
+	output product
 );
 
 
