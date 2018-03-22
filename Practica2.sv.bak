@@ -1,0 +1,16 @@
+module Practica2 
+(
+	input clk,
+	input reset, 
+	input enable,
+	
+	
+	output clock
+
+
+
+);
+
+
+
+endmodule 
